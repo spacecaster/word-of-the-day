@@ -5,15 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Word of the Day</title>
     <link rel="stylesheet" href="styles.css">
+    <!-- Include any additional stylesheets or fonts here -->
 </head>
 <body>
-    <div class="container">
-        <h1>Word of the Day</h1>
-        <div id="word-container">
-            <h2 id="word">Loading...</h2>
-            <p id="definition">Please wait...</p>
+    <div class="container max-w-5xl px-2 lg:px-12 pb-8 text-center">
+        <h1 class="py-8 tracking-[.1em] text-2xl font-light">Word of the Day</h1>
+        <div class="autoComplete_wrapper" role="combobox" aria-owns="autoComplete_list_1" aria-haspopup="true" aria-expanded="false">
+            <div id="word-container" class="pt-8 m-auto max-w-xl text-left">
+                <div class="h-80 text-center pt-10">
+                    <h2 id="word" class="text-3xl font-bold">Loading...</h2>
+                    <p id="definition" class="text-lg mt-4">Please wait...</p>
+                </div>
+            </div>
         </div>
     </div>
     <script src="script.js"></script>
+    <!-- Include any additional scripts here -->
 </body>
 </html>

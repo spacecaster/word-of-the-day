@@ -11,12 +11,15 @@ body {
 .container {
     text-align: center;
     background: white;
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 h1 {
+    font-size: 2.5em;
     margin-bottom: 20px;
 }
 
@@ -27,5 +30,42 @@ h1 {
 
 #definition {
     font-size: 1.2em;
-    margin: 10px 0 0;
+    margin-top: 10px;
+    color: #555;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-light {
+    font-weight: 300;
+}
+
+.pt-8 {
+    padding-top: 2rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.max-w-xl {
+    max-width: 36rem;
+}
+
+.text-2xl {
+    font-size: 1.5em;
+}
+
+.text-3xl {
+    font-size: 2em;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.mt-4 {
+    margin-top: 1rem;
 }
