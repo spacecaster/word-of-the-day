@@ -38,6 +38,9 @@ h1 {
     max-width: 100%;
     height: auto;
     margin-bottom: 20px;
+    background-color: transparent;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
 }
 
 .text-center {
