@@ -13,6 +13,9 @@ body {
     padding: 40px;
     max-width: 600px;
     margin: 0 auto;
+    background-color: transparent; /* Ensure transparency */
+    border: none; /* Remove border */
+    box-shadow: none; /* Remove box shadow */
 }
 
 h1 {
@@ -38,37 +41,3 @@ h1 {
 }
 
 .text-center {
-    text-align: center;
-}
-
-.font-light {
-    font-weight: 300;
-}
-
-.pt-8 {
-    padding-top: 2rem;
-}
-
-.m-auto {
-    margin: auto;
-}
-
-.max-w-xl {
-    max-width: 36rem;
-}
-
-.text-2xl {
-    font-size: 1.5em;
-}
-
-.text-3xl {
-    font-size: 2em;
-}
-
-.font-bold {
-    font-weight: 700;
-}
-
-.mt-4 {
-    margin-top: 1rem;
-}
