@@ -83,10 +83,14 @@ h1 {
 }
 
 .footer a {
-    color: #FF5733;
+    color: #C1391C; /* Set footer link color to dark orange */
     text-decoration: none;
 }
 
 .footer a:hover {
     text-decoration: underline;
+}
+
+.footer p {
+    color: #888; /* Ensure "by" text is default color */
 }
