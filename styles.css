@@ -13,9 +13,9 @@ body {
     padding: 40px;
     max-width: 600px;
     margin: 0 auto;
-    background-color: transparent; /* Ensure transparency */
-    border: none; /* Remove border */
-    box-shadow: none; /* Remove box shadow */
+    background-color: #FDFCFC; /* Set background color to match the provided image */
+    border-radius: 10px; /* Add rounded corners */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
 }
 
 h1 {
@@ -38,7 +38,6 @@ h1 {
     max-width: 100%;
     height: auto;
     margin-bottom: 20px;
-    opacity: 0.8; /* Adjust opacity to blend with the background */
 }
 
 .text-center {
