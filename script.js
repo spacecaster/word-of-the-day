@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const words = [
         { word: "serendipity", definition: "The occurrence of events by chance in a happy or beneficial way." },
         { word: "quintessential", definition: "Representing the most perfect or typical example of a quality or class." },
-        { word: "ephemeral", definition: "Lasting for a very short time." }
+        { word: "ephemeral", definition: "Lasting for a very short time - fleeting." },
 	{ word: "luminous", definition: "Full of or shedding light; bright or shining, especially in the dark." },
 	{ word: "elixir", definition: "A magical or medicinal potion." },
 	{ word: "halcyon", definition: "Denoting a period of time in the past that was idyllically happy and peaceful." },
