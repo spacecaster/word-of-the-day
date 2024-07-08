@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f9f9f9;
+    background-color: #fdfdfd;
 }
 
 .container {
@@ -13,7 +13,7 @@ body {
     padding: 40px;
     max-width: 600px;
     margin: 0 auto;
-    background-color: #f9f9f9; /* Set background color to match the provided image */
+    background-color: #fdfdfd; /* Set background color to match the provided image */
     border-radius: 10px; /* Add rounded corners */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
 }
