@@ -8,6 +8,14 @@ document.addEventListener("DOMContentLoaded", function() {
         { word: "serendipity", definition: "The occurrence of events by chance in a happy or beneficial way." },
         { word: "quintessential", definition: "Representing the most perfect or typical example of a quality or class." },
         { word: "ephemeral", definition: "Lasting for a very short time." }
+	{ word: "luminous", definition: "Full of or shedding light; bright or shining, especially in the dark." },
+	{ word: "elixir", definition: "A magical or medicinal potion." },
+	{ word: "halcyon", definition: "Denoting a period of time in the past that was idyllically happy and peaceful." },
+	{ word: "aurora", definition: "The dawn or the first light of day." },
+	{ word: "zephyr", definition: "A soft gentle breeze." },
+	{ word: "nebulous", definition: "In the form of a cloud or haze; hazy." },
+	{ word: "wistful", definition: "Having or showing a feeling of vague or regretful longing." },
+	{ word: "minutia", definition: "Small, precise, or trivial details that might be overlooked in the broader picture" },
         // Add more words as needed
     ];
 
