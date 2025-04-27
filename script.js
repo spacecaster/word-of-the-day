@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	{ word: "hinterland", definition: "the remote areas beyond the coast and cities" },	    
 	{ word: "elegy", definition: "a poem or song composed as a lament for the dead." },	    
         { word: "sonder", definition: "The realization that each random passerby is living a life as vivid and complex as your own." },
-        { word: "vestige", definition: "powerful image of something fading, like "ephemeral"" },
+        { word: "vestige", definition: "powerful image of something fading, like ephemeral" },
         { word: "ephemeral", definition: "Lasting for a very short time - fleeting." },
 	{ word: "luminous", definition: "Full of or shedding light; bright or shining, especially in the dark." },
 	{ word: "elixir", definition: "A magical or medicinal potion." },
