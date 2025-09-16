@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	{ word: "laissez-faire", definition: "let it be -- can also mean a philosophy of minimal government intervention" },
 	{ word: "gambit", definition: "strategic move or action made to gain an advantage" },
 	{ word: "bespoke", definition: "custom made -- tailored to specific requirements" },
-	{ word: "counterfactual", definition: "exercise of modifying a factual prior event and then assessing the consequences of that change" },
+	{ word: "counterfactual", definition: "what would have happened if the world had been different in some way. a statement, scenario, or model about an alternative reality that didn’t actually occur" },
 	{ word: "conduit", definition: "a channel of conveying" },
 	{ word: "corpus", definition: "a collection of written texts" },
 	{ word: "du jour", definition: "-- of the day" },
